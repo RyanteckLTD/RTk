@@ -3,7 +3,7 @@ from time import sleep
 t = 0.2
 import anyio.GPIO as GPIO
 
-RED = 22
+RED = 4
 YEL = 23
 GRN = 24
 BUZZ = 5
