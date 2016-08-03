@@ -50,7 +50,7 @@ else:
   print("Your anyio board has been detected")
   print("Now running your program...")
 
-BAUD = 115200
+BAUD = 230400
 
 
 s = serial.Serial(PORT)
